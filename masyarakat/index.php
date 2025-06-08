@@ -19,7 +19,7 @@ ob_start();
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" href="../img/favicon2.ico" type="image/x-icon">
   <link rel="shortcut icon" href="../img/favicon2.ico" type="image/x-icon">
-  <title>Pengaduan Desa X</title>
+  <title>Parkir Liar Hunter</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
