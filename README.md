@@ -9,4 +9,4 @@ username : admin
 password : admin
 
 
-Untuk masyarakat daftar saja sendiri
+Untuk masyarakat, register sendiri pada halaman login dan klik 'Daftar di sini.'
