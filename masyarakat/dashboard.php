@@ -86,10 +86,6 @@
                     class="text-primary-600 hover:text-primary-900">
                     <i class="fas fa-info-circle"></i> Detail
                   </button>
-                  <a href="index.php?p=pengaduan_hapus&id_pengaduan=<?php echo $r['id_pengaduan']; ?>"
-                    onclick="return confirm('Anda Yakin Ingin Menghapus?')" class="text-red-600 hover:text-red-900">
-                    <i class="fas fa-trash-alt"></i> Hapus
-                  </a>
                 </td>
               </tr>
 
