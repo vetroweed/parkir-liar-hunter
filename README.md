@@ -2,7 +2,9 @@
 ---------------------
 Login ada 2 Admin dan Masyarakat:
 -------------
-Untuk admin username : admin
+Untuk admin
+
+username : admin
 
 password : admin
 
